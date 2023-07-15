@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281906584268",
+    "project_id": "corousel-java",
+    "storage_bucket": "corousel-java.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281906584268:android:6468cdbe54e919c55c4069",
+        "android_client_info": {
+          "package_name": "com.example.corouseljava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281906584268-roc0eaiknoftirgvno90gtbbaja6hvpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChBIvWPh2gJJAHpwyWxPVkvSyBrkwYXoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281906584268-roc0eaiknoftirgvno90gtbbaja6hvpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
