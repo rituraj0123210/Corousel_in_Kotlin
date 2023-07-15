@@ -47,7 +47,6 @@ class MainActivity : AppCompatActivity() {
                     mainslider.setImageList(remoteimages.map { it.slideModel }, ScaleTypes.FIT)
                     mainslider.setItemClickListener(object : ItemClickListener {
                         override fun doubleClick(position: Int) {
-                            // Double click action
                         }
 
                         override fun onItemSelected(i: Int) {
@@ -60,7 +59,6 @@ class MainActivity : AppCompatActivity() {
                 }
 
                 override fun onCancelled(databaseError: DatabaseError) {
-                    // Handle database error
                 }
             })
     }
