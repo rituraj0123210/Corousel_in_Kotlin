@@ -20,7 +20,13 @@
                 android:layout_height="200dp"
                 app:iss_auto_cycle="true"
                 app:iss_delay="0"
-                app:iss_period="2000" />
+                app:iss_period="2000"
+                app:iss_corner_radius="@integer/material_motion_duration_short_1"
+
+                app:iss_text_align="CENTER"
+                app:iss_error_image="@color/teal_200"
+                app:iss_title_background="@color/transparent"
+                />
 
 
         </LinearLayout>
