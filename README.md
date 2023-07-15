@@ -1,2 +1,2 @@
 # Corousel_in_Kotlin
-![Screenshot 2023-07-15 192103](https://github.com/rituraj0123210/Corousel_in_Kotlin/assets/113199261/66eba79e-c998-45b6-9bb0-3d9d5ed8be02)
+![Screenshot 2023-07-15 192318](https://github.com/rituraj0123210/Corousel_in_Kotlin/assets/113199261/b598fa54-3685-4e22-9168-a9f405d741c1)
